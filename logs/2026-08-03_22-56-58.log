@@ -1,0 +1,2 @@
+[ 2026-08-03 22:56:58,030 ] 6 src.logger.logger - INFO - Testing Exception Handling
+[ 2026-08-03 22:56:58,030 ] 14 src.logger.logger - ERROR - Error occurred in python script: [E:\ML_project1\hotel-booking-cancellation-prediction\main.py] at line number [11] Error message: [division by zero]
